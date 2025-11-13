@@ -1,0 +1,116 @@
+{
+  "timeline": [
+    {
+      "year": 2015,
+      "host": "Malaysia",
+      "title": "Our People, Our Community, Our Vision",
+      "description": "Establishment of the ASEAN Community and long-term vision for 2025.",
+      "is_active": false
+    },
+    {
+      "year": 2016,
+      "host": "Laos",
+      "title": "Turning Vision into Reality for a Dynamic ASEAN Community",
+      "description": "Implementation of ASEAN 2025 and regional cooperation.",
+      "is_active": false
+    },
+    {
+      "year": 2017,
+      "host": "Philippines",
+      "title": "Partnering for Change, Engaging the World",
+      "description": "Focus on people-centered initiatives and global partnerships.",
+      "is_active": false
+    },
+    {
+      "year": 2018,
+      "host": "Singapore",
+      "title": "Resilient and Innovative",
+      "description": "Building digital economies and strengthening resilience.",
+      "is_active": false
+    },
+    {
+      "year": 2019,
+      "host": "Thailand",
+      "title": "Advancing Partnership for Sustainability",
+      "description": "Sustainable development and partnership-driven growth.",
+      "is_active": false
+    },
+    {
+      "year": 2020,
+      "host": "Vietnam",
+      "title": "Cohesive and Responsive ASEAN",
+      "description": "COVID-19 coordination and regional recovery frameworks.",
+      "is_active": false
+    },
+    {
+      "year": 2021,
+      "host": "Brunei Darussalam",
+      "title": "We Care, We Prepare, We Prosper",
+      "description": "Focus on resilience and recovery.",
+      "is_active": false
+    },
+    {
+      "year": 2022,
+      "host": "Cambodia",
+      "title": "ASEAN A.C.T.: Addressing Challenges Together",
+      "description": "Unity in response to global shifts.",
+      "is_active": false
+    },
+    {
+      "year": 2023,
+      "host": "Indonesia",
+      "title": "ASEAN Matters: Epicentrum of Growth",
+      "description": "Economic integration and inclusivity.",
+      "is_active": false
+    },
+    {
+      "year": 2024,
+      "host": "Lao PDR",
+      "title": "Enhancing Connectivity and Resilience",
+      "description": "Infrastructure and people-centric growth.",
+      "is_active": false
+    },
+    {
+      "year": 2025,
+      "host": "Malaysia",
+      "title": "Kuala Lumpur Summit – Digital, Green, Inclusive",
+      "description": "Digital economy, sustainability, and social inclusion.",
+      "is_active": true
+    },
+    {
+      "year": 2026,
+      "host": "Myanmar",
+      "title": "Strengthening Unity for Shared Prosperity",
+      "description": "Regional cooperation and post-pandemic renewal.",
+      "is_active": false
+    },
+    {
+      "year": 2027,
+      "host": "Philippines",
+      "title": "Innovate. Integrate. Inspire.",
+      "description": "Innovation-driven development and stronger youth participation.",
+      "is_active": false
+    },
+    {
+      "year": 2028,
+      "host": "Singapore",
+      "title": "Smart ASEAN: Secure, Sustainable, Seamless",
+      "description": "Smart cities, cybersecurity, and seamless cross-border services.",
+      "is_active": false
+    },
+    {
+      "year": 2029,
+      "host": "Thailand",
+      "title": "Sustainability Through Unity",
+      "description": "Environmental collaboration and regional food security.",
+      "is_active": false
+    },
+    {
+      "year": 2030,
+      "host": "Vietnam",
+      "title": "ASEAN 2030: A Future Forward Region",
+      "description": "Preparing ASEAN for the next decade of digital transformation and climate resilience.",
+      "is_active": false
+    }
+  ]
+}

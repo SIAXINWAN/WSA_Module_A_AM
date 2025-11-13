@@ -1,0 +1,85 @@
+{
+  "year": 2025,
+  "rows": [
+    {
+      "country": "Brunei Darussalam",
+      "code": "BN",
+      "flag": "lib/assets/images/flags/BN.png",
+      "gdp_usd_bn": 18,
+      "growth_pct": 2.3,
+      "trade_balance_usd_bn": 4
+    },
+    {
+      "country": "Cambodia",
+      "code": "KH",
+      "flag": "lib/assets/images/flags/bg2.png",
+      "gdp_usd_bn": 31,
+      "growth_pct": 5.8,
+      "trade_balance_usd_bn": -2
+    },
+    {
+      "country": "Indonesia",
+      "code": "ID",
+      "flag": "lib/assets/images/flags/ID.png",
+      "gdp_usd_bn": 1180,
+      "growth_pct": 5.0,
+      "trade_balance_usd_bn": -12
+    },
+    {
+      "country": "Lao PDR",
+      "code": "LA",
+      "flag": "lib/assets/images/flags/LA.png",
+      "gdp_usd_bn": 14,
+      "growth_pct": 4.1,
+      "trade_balance_usd_bn": -1
+    },
+    {
+      "country": "Malaysia",
+      "code": "MY",
+      "flag": "lib/assets/images/flags/MY.png",
+      "gdp_usd_bn": 450,
+      "growth_pct": 4.3,
+      "trade_balance_usd_bn": 15
+    },
+    {
+      "country": "Myanmar",
+      "code": "MM",
+      "flag": "lib/assets/images/flags/MM.png",
+      "gdp_usd_bn": 65,
+      "growth_pct": 1.9,
+      "trade_balance_usd_bn": -3
+    },
+    {
+      "country": "Philippines",
+      "code": "PH",
+      "flag": "lib/assets/images/flags/PH.png",
+      "gdp_usd_bn": 460,
+      "growth_pct": 5.7,
+      "trade_balance_usd_bn": -20
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "flag": "lib/assets/images/flags/SG.png",
+      "gdp_usd_bn": 630,
+      "growth_pct": 3.1,
+      "trade_balance_usd_bn": 95
+    },
+    {
+      "country": "Thailand",
+      "code": "TH",
+      "flag": "lib/assets/images/flags/TH.png",
+      "gdp_usd_bn": 580,
+      "growth_pct": 3.5,
+      "trade_balance_usd_bn": -5
+    },
+    {
+      "country": "Viet Nam",
+      "code": "VN",
+      "flag": "lib/assets/images/flags/VN.png",
+      "gdp_usd_bn": 420,
+      "growth_pct": 5.6,
+      "trade_balance_usd_bn": 8
+    }
+  ]
+}

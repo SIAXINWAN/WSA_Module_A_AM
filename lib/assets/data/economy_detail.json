@@ -1,0 +1,90 @@
+{
+  "year": 2025,
+  "countries": {
+    "MY": {
+      "country": "Malaysia",
+      "flag": "assets/images/flags/MY.png",
+      "key_figures": {
+        "gdp_usd_bn": 450,
+        "growth_pct": 4.3,
+        "trade_balance_usd_bn": 15
+      },
+      "quarterly_gdp_series": [
+        110,
+        112,
+        113,
+        115
+      ],
+      "notes": "Manufacturing and E&E exports support steady growth. Inflation remains contained within the policy band.",
+      "description_marquee": "Malaysia 2025 outlook: diversified exports, digital economy expansion, and resilient domestic demand."
+    },
+    "ID": {
+      "country": "Indonesia",
+      "flag": "assets/images/flags/ID.png",
+      "key_figures": {
+        "gdp_usd_bn": 1180,
+        "growth_pct": 5.0,
+        "trade_balance_usd_bn": -12
+      },
+      "quarterly_gdp_series": [
+        285,
+        290,
+        295,
+        310
+      ],
+      "notes": "Consumption and infrastructure investment continue to drive growth.",
+      "description_marquee": "Indonesia 2025 outlook: strong consumption, green transition momentum, and digital inclusion programs."
+    },
+    "SG": {
+      "country": "Singapore",
+      "flag": "assets/images/flags/SG.png",
+      "key_figures": {
+        "gdp_usd_bn": 630,
+        "growth_pct": 3.1,
+        "trade_balance_usd_bn": 95
+      },
+      "quarterly_gdp_series": [
+        155,
+        156,
+        158,
+        161
+      ],
+      "notes": "High-value services and trade hub status reinforce external balances.",
+      "description_marquee": "Singapore 2025 outlook: services-led growth and continued innovation investments."
+    },
+    "VN": {
+      "country": "Viet Nam",
+      "flag": "assets/images/flags/VN.png",
+      "key_figures": {
+        "gdp_usd_bn": 420,
+        "growth_pct": 5.6,
+        "trade_balance_usd_bn": 8
+      },
+      "quarterly_gdp_series": [
+        100,
+        103,
+        106,
+        111
+      ],
+      "notes": "Manufacturing relocation tailwinds and export diversification continue.",
+      "description_marquee": "Viet Nam 2025 outlook: supply chain integration, manufacturing expansion, and human capital upskilling."
+    },
+    "TH": {
+      "country": "Thailand",
+      "flag": "assets/images/flags/TH.png",
+      "key_figures": {
+        "gdp_usd_bn": 580,
+        "growth_pct": 3.5,
+        "trade_balance_usd_bn": -5
+      },
+      "quarterly_gdp_series": [
+        140,
+        142,
+        145,
+        148
+      ],
+      "notes": "Tourism recovery complements steady domestic demand.",
+      "description_marquee": "Thailand 2025 outlook: tourism rebound and targeted industrial policy."
+    }
+  }
+}

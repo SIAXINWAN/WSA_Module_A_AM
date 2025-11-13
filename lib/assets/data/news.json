@@ -1,0 +1,60 @@
+{
+  "updated_at": "2025-11-12",
+  "articles": [
+    {
+      "id": "news-001",
+      "title": "ASEAN Leaders Endorse Digital Cooperation Pact",
+      "summary": "Member states commit to cross-border digital trade facilitation, cybersecurity collaboration, and AI ethics alignment.",
+      "image": "lib/assets/images/news/digital_pact.jpg",
+      "published_at": "2025-11-10T09:00:00Z",
+      "content": [
+        "The ASEAN Summit 2025 concluded its Digital Cooperation roundtable with a joint endorsement of a regional framework.",
+        "The pact outlines common data exchange formats, mutual recognition of trust services, and a roadmap for AI governance."
+      ]
+    },
+    {
+      "id": "news-002",
+      "title": "Green Transition Fund Announced",
+      "summary": "A multi-billion USD initiative to accelerate renewable projects and grid modernization across ASEAN.",
+      "image": "lib/assets/images/news/green_transition.jpg",
+      "published_at": "2025-11-10T13:30:00Z",
+      "content": [
+        "The fund prioritizes solar, wind, and storage pilots, with incentives for public-private partnerships.",
+        "Early beneficiaries include rural electrification efforts and cross-border power interconnectors."
+      ]
+    },
+    {
+      "id": "news-003",
+      "title": "Skills Mobility Program Pilots in 3 Countries",
+      "summary": "New talent visa pathways will simplify short-term tech assignments and curriculum alignment.",
+      "image": "lib/assets/images/news/skills_mobility.jpg",
+      "published_at": "2025-11-11T08:15:00Z",
+      "content": [
+        "The pilot will test credential portability and competency mapping across higher-ed institutions.",
+        "Lessons learned will inform wider roll-out by 2026."
+      ]
+    },
+    {
+      "id": "news-004",
+      "title": "ASEAN Fintech Sandbox to Launch in Early 2026",
+      "summary": "A unified sandbox will allow startups to test cross-border financial innovations under harmonized regulatory oversight.",
+      "image": "lib/assets/images/news/fintech_sandbox.jpg",
+      "published_at": "2025-11-12T10:00:00Z",
+      "content": [
+        "The initiative aims to streamline digital payment trials, enhance consumer protection, and boost financial inclusion.",
+        "Participating regulators will share data on compliance performance to shape regional fintech policies."
+      ]
+    },
+    {
+      "id": "news-005",
+      "title": "Regional Food Security Task Force Formed",
+      "summary": "ASEAN ministers establish a task force to coordinate supply chain resilience and climate-smart agriculture.",
+      "image": "lib/assets/images/news/food_security.jpg",
+      "published_at": "2025-11-12T15:45:00Z",
+      "content": [
+        "The task force will monitor crop yields, water use efficiency, and logistics flows to anticipate disruptions.",
+        "A joint platform for data sharing and early warning systems will be operational by mid-2026."
+      ]
+    }
+  ]
+}

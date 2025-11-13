@@ -1,0 +1,28 @@
+{
+  "light": {
+    "primary": "#2E56B8",
+    "primaryVariant": "#1E3E8E",
+    "secondary": "#18A0FB",
+    "background": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "onPrimary": "#FFFFFF",
+    "onBackground": "#0E1222",
+    "onSurface": "#0E1222",
+    "accentGold": "#C9A227",
+    "accentSilver": "#9DA3AE",
+    "accentBronze": "#AD6B2F"
+  },
+  "dark": {
+    "primary": "#5B7CF0",
+    "primaryVariant": "#3C54B8",
+    "secondary": "#4CB2FF",
+    "background": "#0B0F1D",
+    "surface": "#12172A",
+    "onPrimary": "#FFFFFF",
+    "onBackground": "#EAEFFB",
+    "onSurface": "#EAEFFB",
+    "accentGold": "#D9B43B",
+    "accentSilver": "#AAB2BD",
+    "accentBronze": "#BF7A39"
+  }
+}
